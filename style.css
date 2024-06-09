@@ -1,0 +1,17 @@
+h1{
+    color: orange;
+}
+p{
+    color: blue;
+}
+#para{
+    margin-left: 50px;
+}
+.makered{
+    color: red;
+    font-family: roboto;
+}
+.navbar{
+    display: flex;
+    justify-content: space-around;
+}
